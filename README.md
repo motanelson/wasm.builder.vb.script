@@ -1,2 +1,6 @@
-# wasm.builder.vb.script
-script vb wasm builder of file formater
+runing mingw on wsl on windows
+
+
+i686-w64-mingw32-gcc-win32 console.c -o console.exe
+
+
